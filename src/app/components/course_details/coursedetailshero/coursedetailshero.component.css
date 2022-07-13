@@ -1,0 +1,11 @@
+.btn-main {
+    background: #ffffff;
+    color: rgb(0, 0, 0) !important;
+    border-color: #ffffff;
+  }
+  
+  .btn-main:hover {
+    background: transparent;
+    border-color: #ffffff;
+    color: rgb(255, 255, 255) !important;
+  }

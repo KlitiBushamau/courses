@@ -1,0 +1,136 @@
+.section {
+    padding: 70px 0;
+    position: relative;
+    background-color: #FFFFFF;
+  }
+  .section-dark {
+    background-color: #0b1011;
+  }
+  .title.text-center {
+    margin-bottom: 50px;
+  }
+  .section-dark .card-profile.card-plain .card-title {
+    color: #FFFFFF !important;
+  }
+  .page-header .title,
+.page-header .info-title,
+.carousel-caption .title,
+.carousel-caption .info-title {
+  color: #FFFFFF;
+}
+  .section-dark .card-profile.card-plain .card-description {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  
+  .card-profile {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .card-profile .card-cover {
+    height: 130px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 12px 12px 0 0;
+  }
+  .card-profile .card-block .card-title {
+    margin-top: 5px !important;
+  }
+  .card-profile .card-block .card-category {
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  .card-profile .card-avatar {
+    max-width: 120px;
+    max-height: 120px;
+    margin: -60px auto 0;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  .card-profile .card-avatar img {
+    max-width: 100%;
+    height: auto;
+  }
+  .card-profile .card-avatar.border-white {
+    border: 4px solid #FFFFFF;
+  }
+  .card-profile .card-avatar.border-gray {
+    border: 4px solid #ccc;
+  }
+  
+  .section .card-profile {
+    margin-top: 100px;
+  }
+  .card.card-plain {
+    background-color: transparent;
+    box-shadow: none;
+    border-radius: 0;
+  }
+  .img-details .author {
+    margin-left: 10px;
+    margin-top: -21px;
+    width: 40px;
+  }
+  .media-post .author {
+    width: 20%;
+    float: none !important;
+    display: block;
+    margin: 0 auto 10px;
+  }
+  .card .card-footer {
+    padding: 15px;
+    background: transparent;
+    border-top: 0 none;
+  }
+  .card .card-footer .social-line .btn:first-child {
+    border-radius: 0 0 0 6px;
+  }
+  .card .card-footer .social-line .btn:last-child {
+    border-radius: 0 0 6px 0;
+  }
+  .card .card-block .card-footer {
+    padding: 0;
+  }
+  .card .card-block .card-description + .card-footer {
+    padding-top: 10px;
+  }
+  .btn-just-icon {
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    min-width: 40px;
+    padding: 8px;
+  }
+  .btn-just-icon.btn-sm {
+    padding: 4px !important;
+  }
+  .btn-just-icon i {
+    font-size: 16px;
+    padding: 2px 0px;
+  }
+  
+  .upgrade-pro .btn {
+    margin-top: 30px;
+  }
+  
+  .btn-link.btn-just-icon {
+    padding: 8px;
+  }
+  .btn-just-icon.btn-sm {
+    height: 30px;
+    width: 30px;
+    min-width: 30px;
+    padding: 0;
+  }
+  .btn-just-icon.btn-sm i {
+    font-size: 12px;
+  }
+  .btn-just-icon.btn-lg {
+    height: 50px;
+    width: 50px;
+    min-width: 50px;
+    padding: 13px;
+  }
+  .btn-just-icon.btn-lg i {
+    font-size: 18px;
+    padding: 0;
+  }
